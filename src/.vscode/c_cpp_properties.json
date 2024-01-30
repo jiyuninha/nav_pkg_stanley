@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lee/scout_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/lee/sensor_ros/devel/include/**",
+        "/home/lee/sensor_ros/src/FAST_LIO/include/**",
+        "/home/lee/sensor_ros/src/FAST-LOCALIZATION/include/**",
+        "/home/lee/sensor_ros/src/SC-LIO-SAM/SC-LIO-SAM/include/**",
+        "/home/lee/scout_ws/src/AD-scout/src/nav_pkg_final/nav_pkg/include/**",
+        "/home/lee/sensor_ros/src/ouster-ros/include/**",
+        "/home/lee/sensor_ros/src/sensor_ros_pkg/src/realsense-ros/realsense2_camera/include/**",
+        "/home/lee/scout_ws/src/AD-scout/src/scout_ros/scout_base/include/**",
+        "/home/lee/scout_ws/src/AD-scout/src/ugv_sdk/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
